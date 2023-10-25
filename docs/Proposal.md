@@ -84,16 +84,19 @@ It is found that the column TotalCharges has few null values in it. So, I remove
 ![image](https://github.com/DATA-606-2023-FALL-THURSDAY/sahithtodupunuri/assets/114625950/f8271990-8599-4755-93c1-36d8c325d91e)
 
 ### Interpretations
- -There is negligible difference in customer percentage/ count who changed the service provider. Both genders behaved in similar fashion when it comes to migrating to another service provider/firm.
- -About 75% of customer with Month-to-Month Contract opted to move out as compared to 13% of customers with One Year Contract and 3% with Two Year Contract
- -Customers who chose Electronic Check as their payment method were the most likely to leave, while those who selected Credit Card automatic transfer or Bank Automatic Transfer, as well as Mailed Check, were more likely to stay with the service.
- -Customers with higher Monthly Charges are also more likely to churn
+-There is negligible difference in customer percentage/ count who changed the service provider. Both genders behaved in similar fashion when it comes to migrating to another service provider/firm.
+-About 75% of customer with Month-to-Month Contract opted to move out as compared to 13% of customers with One Year Contract and 3% with Two Year Contract
+-Customers who chose Electronic Check as their payment method were the most likely to leave, while those who selected Credit Card automatic transfer or Bank Automatic Transfer, as well as Mailed Check, were more likely to stay with the service.
+-Customers with higher Monthly Charges are also more likely to churn
+
+
 
 ## 5. Future Work
  -Splitting the data into training and testing sets
  -Standardizing numeric attributes
  -Divide the columns into 3 categories, one for standardisation, one for label encoding and one for one hot encoding
  -Model Evaluation
+
 
 ## 6. References
 
