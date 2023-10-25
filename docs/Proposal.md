@@ -69,7 +69,7 @@ The rows in the given table represent individual customer records in a telecom d
       It is found that the column TotalCharges has few null values in it. So, I removed those rows without effecting the other data
 ### 4.2 Data Visualization
 #### 4.2.1 Gender and Churn Distributions
-      ![image](https://github.com/DATA-606-2023-FALL-THURSDAY/sahithtodupunuri/assets/114625950/ada94c06-1781-4513-a24f-b3b2951cb1e6)
+ ![image](https://github.com/DATA-606-2023-FALL-THURSDAY/sahithtodupunuri/assets/114625950/ada94c06-1781-4513-a24f-b3b2951cb1e6)
 #### 4.2.3 Churn Distribution w.r.t gender
      ![image](https://github.com/DATA-606-2023-FALL-THURSDAY/sahithtodupunuri/assets/114625950/7440c972-475e-4991-9d9b-6820992c2093)
 #### 4.2.4 Customer Contract Distribution
