@@ -88,6 +88,7 @@ It is found that the column TotalCharges has few null values in it. So, I remove
 -About 75% of customer with Month-to-Month Contract opted to move out as compared to 13% of customers with One Year Contract and 3% with Two Year Contract
 -Customers who chose Electronic Check as their payment method were the most likely to leave, while those who selected Credit Card automatic transfer or Bank Automatic Transfer, as well as Mailed Check, were more likely to stay with the service.
 -Customers with higher Monthly Charges are also more likely to churn
+
 ## 5. Future Work
 -Splitting the data into training and testing sets
 -Standardizing numeric attributes
