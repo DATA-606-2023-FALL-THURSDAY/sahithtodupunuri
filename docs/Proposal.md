@@ -66,22 +66,22 @@ The rows in the given table represent individual customer records in a telecom d
 
 ## 4. Exploratory Data Analysis
 ### 4.1 Understanding the Data
-      It is found that the column TotalCharges has few null values in it. So, I removed those rows without effecting the other data
+It is found that the column TotalCharges has few null values in it. So, I removed those rows without effecting the other data
 ### 4.2 Data Visualization
 #### 4.2.1 Gender and Churn Distributions
  ![image](https://github.com/DATA-606-2023-FALL-THURSDAY/sahithtodupunuri/assets/114625950/ada94c06-1781-4513-a24f-b3b2951cb1e6)
 #### 4.2.3 Churn Distribution w.r.t gender
-     ![image](https://github.com/DATA-606-2023-FALL-THURSDAY/sahithtodupunuri/assets/114625950/7440c972-475e-4991-9d9b-6820992c2093)
+![image](https://github.com/DATA-606-2023-FALL-THURSDAY/sahithtodupunuri/assets/114625950/7440c972-475e-4991-9d9b-6820992c2093)
 #### 4.2.4 Customer Contract Distribution
-     ![image](https://github.com/DATA-606-2023-FALL-THURSDAY/sahithtodupunuri/assets/114625950/a6b66257-ba4e-4313-b0c8-7278669bb00b)
+![image](https://github.com/DATA-606-2023-FALL-THURSDAY/sahithtodupunuri/assets/114625950/a6b66257-ba4e-4313-b0c8-7278669bb00b)
 #### 4.2.5 Customer Payment Method distribution w.r.t. Churn
-     ![image](https://github.com/DATA-606-2023-FALL-THURSDAY/sahithtodupunuri/assets/114625950/a5d202dd-c501-44ab-8c94-b5fcf3984334)
+![image](https://github.com/DATA-606-2023-FALL-THURSDAY/sahithtodupunuri/assets/114625950/a5d202dd-c501-44ab-8c94-b5fcf3984334)
 #### 4.2.6 Distribution of Monthly Charges by Churn
-      ![image](https://github.com/DATA-606-2023-FALL-THURSDAY/sahithtodupunuri/assets/114625950/bb4a5a10-e2bb-4ec8-b596-643393f7f7d7)
+![image](https://github.com/DATA-606-2023-FALL-THURSDAY/sahithtodupunuri/assets/114625950/bb4a5a10-e2bb-4ec8-b596-643393f7f7d7)
 #### 4.2.7 Distribution of Total Charges by Churn
-      ![image](https://github.com/DATA-606-2023-FALL-THURSDAY/sahithtodupunuri/assets/114625950/e327486a-1c61-4dac-bd0b-787249f29b5f)
+![image](https://github.com/DATA-606-2023-FALL-THURSDAY/sahithtodupunuri/assets/114625950/e327486a-1c61-4dac-bd0b-787249f29b5f)
 #### 4.2.8 Heat Map
-      ![image](https://github.com/DATA-606-2023-FALL-THURSDAY/sahithtodupunuri/assets/114625950/f8271990-8599-4755-93c1-36d8c325d91e)
+![image](https://github.com/DATA-606-2023-FALL-THURSDAY/sahithtodupunuri/assets/114625950/f8271990-8599-4755-93c1-36d8c325d91e)
 
 ### Interpretations
    -There is negligible difference in customer percentage/ count who chnaged the service provider. Both genders behaved in similar fashion when it comes to migrating to another service provider/firm.
