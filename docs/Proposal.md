@@ -4,7 +4,7 @@
 - GitHub : https://github.com/sahithtodupunuri
 - Linkedin : https://www.linkedin.com/in/sahith-todupunuri
 
-## Background
+## 2. Background
 * The project aims to build a predictive model to identify customers who are most likely to churn in the near future.Understanding which customers are likely to churn can save a company significant amounts of money and allow them to take targeted actions to retain those customers.
 
 * Research Questions :
@@ -13,7 +13,7 @@
    3. What recommendations can be made based on the model's outputs?
 
 
-## Data
+## 3. Data
 
 Description : 
 
@@ -64,8 +64,37 @@ The rows in the given table represent individual customer records in a telecom d
    - Contract
    - MonthlyCharges
 
+## 4. Exploratory Data Analysis
+### 4.1 Understanding the Data
+      It is found that the column TotalCharges has few null values in it. So, I removed those rows without effecting the other data
+### 4.2 Data Visualization
+#### 4.2.1 Gender and Churn Distributions
+      ![image](https://github.com/DATA-606-2023-FALL-THURSDAY/sahithtodupunuri/assets/114625950/ada94c06-1781-4513-a24f-b3b2951cb1e6)
+#### 4.2.3 Churn Distribution w.r.t gender
+     ![image](https://github.com/DATA-606-2023-FALL-THURSDAY/sahithtodupunuri/assets/114625950/7440c972-475e-4991-9d9b-6820992c2093)
+#### 4.2.4 Customer Contract Distribution
+     ![image](https://github.com/DATA-606-2023-FALL-THURSDAY/sahithtodupunuri/assets/114625950/a6b66257-ba4e-4313-b0c8-7278669bb00b)
+#### 4.2.5 Customer Payment Method distribution w.r.t. Churn
+     ![image](https://github.com/DATA-606-2023-FALL-THURSDAY/sahithtodupunuri/assets/114625950/a5d202dd-c501-44ab-8c94-b5fcf3984334)
+#### 4.2.6 Distribution of Monthly Charges by Churn
+      ![image](https://github.com/DATA-606-2023-FALL-THURSDAY/sahithtodupunuri/assets/114625950/bb4a5a10-e2bb-4ec8-b596-643393f7f7d7)
+#### 4.2.7 Distribution of Total Charges by Churn
+      ![image](https://github.com/DATA-606-2023-FALL-THURSDAY/sahithtodupunuri/assets/114625950/e327486a-1c61-4dac-bd0b-787249f29b5f)
+#### 4.2.8 Heat Map
+      ![image](https://github.com/DATA-606-2023-FALL-THURSDAY/sahithtodupunuri/assets/114625950/f8271990-8599-4755-93c1-36d8c325d91e)
 
-## References
+### Interpretations
+   -There is negligible difference in customer percentage/ count who chnaged the service provider. Both genders behaved in similar fashion when it comes to migrating to another service provider/firm.
+   -About 75% of customer with Month-to-Month Contract opted to move out as compared to 13% of customers with One Year Contract and 3% with Two Year Contract
+   -Customers who chose Electronic Check as their payment method were the most likely to leave, while those who selected Credit Card automatic transfer or Bank Automatic Transfer, as well as Mailed Check, were more likely to stay with the service.
+   -Customers with higher Monthly Charges are also more likely to churn
+## 5. Future Work
+   -Splitting the data into training and testing sets
+   -Standardizing numeric attributes
+   -Divide the columns into 3 categories, one for standardisation, one for label encoding and one for one hot encoding
+   -Model Evaluation
+
+## 6. References
 
 Customer Churn Prediction using Machine Learning: Main Approaches and Models
 *[Customer Churn Prediction using Machine Learning: Main Approaches and Models](https://towardsdatascience.com/churn-prediction-770d6cb582a5)*. :link:
