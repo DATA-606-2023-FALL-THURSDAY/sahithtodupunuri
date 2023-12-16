@@ -1,8 +1,10 @@
 # PREDICTING CUSTOMER CHURN FOR TELECOM COMPANIES
-- Prepared for UMBC Data Science Master Degree Capstone by Dr Chaoji (Jay) Wang 
+- Prepared for UMBC Data Science Master Degree Capstone by Dr Chaoji (Jay) Wang - FALL 2023 Semester
 - Author: Sahith Todupunuri
 - GitHub : https://github.com/sahithtodupunuri
 - Linkedin : https://www.linkedin.com/in/sahith-todupunuri
+- Youtube - https://youtu.be/ga5QNwBTU0o
+- Presentation link - [Presentation](https://github.com/DATA-606-2023-FALL-THURSDAY/sahithtodupunuri/blob/main/docs/DATA%20606%20Presentation.pptx)
 
 ## 2. BACKGROUND
 * The project aims to build a predictive model to identify customers who are most likely to churn in the near future.Understanding which customers are likely to churn can save a company significant amounts of money and allow them to take targeted actions to retain those customers.
